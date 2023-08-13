@@ -67,7 +67,7 @@ section {
 }
 
 #fundo {
-    background-image: url(img/fundo5.jpg);
+    background-image: url(fundo5.jpg);
     height: 650px;
     background-size: cover;
 }
